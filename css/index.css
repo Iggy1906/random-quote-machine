@@ -1,0 +1,57 @@
+#background {
+ background-image: url(https://s19.postimg.org/h9qa5df0z/martinmalcolm.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center; 
+  min-height: 100vh; 
+}
+
+#overlay {
+  height: 100%;
+ background-color: rgba(0, 0, 0, 0.7);
+  margin: 0px 0px 0px 0px;
+  min-height: 100vh; 
+}
+
+h1 {
+  text-align: center;
+  padding: 10px 0px 70px 0px; 
+  color: whitesmoke;
+}
+
+
+img {
+  height: 50px;
+}
+
+
+
+
+p#text {
+  display: inline-block;
+  text-align: left; 
+  font-family: Courier; 
+  font-size: x-large; 
+ color: white;
+  background-color: darkred; 
+}
+
+p#author {
+  text-align: right;
+  font-size: large;
+  margin:50px 100px 0px 0px; 
+  color: white;
+  background-color: black; 
+}
+
+#quote-box { 
+ 
+}
+
+#new-quote {
+  margin:auto;
+  display:block;
+  background: darkgreen;
+  border-radius: 12px ; 
+}
